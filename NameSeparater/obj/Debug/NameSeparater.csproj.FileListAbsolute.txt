@@ -1,0 +1,10 @@
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\obj\Debug\NameSeparater.csprojAssemblyReference.cache
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\obj\Debug\NameSeparater.Form1.resources
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\obj\Debug\NameSeparater.Properties.Resources.resources
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\obj\Debug\NameSeparater.csproj.GenerateResource.cache
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\obj\Debug\NameSeparater.csproj.CoreCompileInputs.cache
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\bin\Debug\NameSeparater.exe.config
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\bin\Debug\NameSeparater.exe
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\bin\Debug\NameSeparater.pdb
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\obj\Debug\NameSeparater.exe
+C:\Users\buket\source\repos\NameSeparater\NameSeparater\obj\Debug\NameSeparater.pdb
