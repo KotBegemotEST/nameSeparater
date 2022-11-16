@@ -44,9 +44,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(72, 34);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(89, 17);
+            this.label1.Size = new System.Drawing.Size(46, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Boys names:";
+            this.label1.Text = "Cities:";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
@@ -54,9 +54,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(488, 34);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(87, 17);
+            this.label2.Size = new System.Drawing.Size(78, 17);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Girls names:";
+            this.label2.Text = "University: ";
             // 
             // listBox1
             // 
@@ -109,7 +109,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(201, 40);
             this.button2.TabIndex = 7;
-            this.button2.Text = "Search Boy Name";
+            this.button2.Text = "Search city name";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -119,7 +119,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(192, 40);
             this.button3.TabIndex = 8;
-            this.button3.Text = "Search Girl Name";
+            this.button3.Text = "Search uni name";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
